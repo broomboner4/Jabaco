@@ -214,4 +214,4 @@ Jabaco is offered as a complete free version with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-13 21:06:22 UTC
+**Last updated:** 2026-10-14 01:01:07 UTC
